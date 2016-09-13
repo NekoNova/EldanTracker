@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Addon Author="Olivar Nax" APIVersion="13" Name="EldanQuestTracker" Description="Tracks all quests for the active player" Version="0.1">
+  <Script Name="EldanQuestTracker.lua" />
+  <ReplaceAddon Name="QuestTracker" />
+</Addon>
